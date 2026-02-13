@@ -25,74 +25,74 @@
     "prosConsSubtitle": "Nothing!!!!"
   },
   "media": {
-    "mainBearGif": "/public/assets/cute-bear.gif",
-    "musicBearGif": "/public/assets/music-bear.gif",
-    "comfortBearGif": "/public/assets/comfort-bear.gif",
-    "kissBearGif": "/public/assets/kiss-bears.gif",
-    "photoBearGif": "/public/assets/photo-bear.gif",
-    "loveYouBearGif": "/public/assets/love-you-bear.gif",
-    "childGif": "/public/assets/child.gif",
-    "roseBearGif": "/public/assets/rose-bear.gif",
-    "cookBearGif": "/public/assets/cook-bear.gif",
-    "kissSingleBearGif": "/public/assets/kiss-bear.gif",
-    "leftButton": "/public/assets/left-button.png",
-    "rightButton": "/public/assets/right-button.png",
+    "mainBearGif": "/assets/cute-bear.gif",
+    "musicBearGif": "/assets/music-bear.gif",
+    "comfortBearGif": "/assets/comfort-bear.gif",
+    "kissBearGif": "/assets/kiss-bears.gif",
+    "photoBearGif": "/assets/photo-bear.gif",
+    "loveYouBearGif": "/assets/love-you-bear.gif",
+    "childGif": "/assets/child.gif",
+    "roseBearGif": "/assets/rose-bear.gif",
+    "cookBearGif": "/assets/cook-bear.gif",
+    "kissSingleBearGif": "/assets/kiss-bear.gif",
+    "leftButton": "/assets/left-button.png",
+    "rightButton": "/assets/right-button.png",
     "envelopeSeal": "❤️"
   },
   "gifts": {
-    "gift1": "/public/assets/gift/gift1.jpg",
-    "gift2": "/public/assets/gift/gift2.jpg", 
-    "gift3": "/public/assets/gift/gift3.jpg"
+    "gift1": "/assets/gift/gift1.jpg",
+    "gift2": "/assets/gift/gift2.jpg", 
+    "gift3": "/assets/gift/gift3.jpg"
   },
   "couplePhotos": [
     {
-      "image": "/public/assets/couple_photo/photo1.jpg",
+      "image": "/assets/couple_photo/photo1.jpg",
       "caption": "Our first special moment together"
     },
     {
-      "image": "/public/assets/couple_photo/photo2.jpg", 
+      "image": "/assets/couple_photo/photo2.jpg", 
       "caption": "Cooking memories together"
     },
     {
-      "image": "/public/assets/couple_photo/photo3.jpg",
+      "image": "/assets/couple_photo/photo3.jpg",
       "caption": "Cringe Moments"
     },
     {
-      "image": "/public/assets/couple_photo/photo4.jpg",
+      "image": "/assets/couple_photo/photo4.jpg",
       "caption": "When you made me smile like this"
     },
     {
-      "image": "/public/assets/couple_photo/photo5.jpg",
+      "image": "/assets/couple_photo/photo5.jpg",
       "caption": "Our heart-to-heart talks"
     },
     {
-      "image": "/public/assets/couple_photo/photo6.jpg",
+      "image": "/assets/couple_photo/photo6.jpg",
       "caption": "Your comforting presence"
     }
   ],
   "prosCons": [
     {
-      "gif": "/public/assets/cook-bear.gif",
+      "gif": "/assets/cook-bear.gif",
       "text": "I'll cook your fav food like it's my love language 🍳"
     },
     {
-      "gif": "/public/assets/comfort-bear.gif", 
+      "gif": "/assets/comfort-bear.gif", 
       "text": "Unlimited comfort and care"
     },
     {
-      "gif": "/public/assets/cute-bear.gif",
+      "gif": "/assets/cute-bear.gif",
       "text": "I listen… like actually listen"
     },
     {
-      "gif": "/public/assets/kiss-bears.gif",
+      "gif": "/assets/kiss-bears.gif",
       "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
     },
     {
-      "gif": "/public/assets/photo-bear.gif",
+      "gif": "/assets/photo-bear.gif",
       "text": "Your personal photographer for all the cute moments 📸"
     },
     {
-      "gif": "/public/assets/music-bear.gif",
+      "gif": "/assets/music-bear.gif",
       "text": "Live singing performances… just for you 🎶😉"
     }
   ],
@@ -103,8 +103,8 @@
       "duration": "03:41",
       "album": "Pannaiyarum Padminium",
       "artist": "",
-      "cover": "/public/assets/album-covers/pp.jpg",
-      "audio": "/public/assets/songs/pp.mp3"
+      "cover": "/assets/album-covers/pp.jpg",
+      "audio": "/assets/songs/pp.mp3"
     },
     {
       "id": 2,
@@ -112,8 +112,8 @@
       "duration": "05:32", 
       "album": "Ayan",
       "artist": "",
-      "cover": "/public/assets/album-covers/ayan.jpg",
-      "audio": "/public/assets/songs/ayan.mp3"
+      "cover": "/assets/album-covers/ayan.jpg",
+      "audio": "/assets/songs/ayan.mp3"
     },
     {
       "id": 3,
@@ -121,8 +121,8 @@
       "duration": "06:25",
       "album": "Virumandi",
       "artist": "",
-      "cover": "/public/assets/album-covers/Virumandi.jpg",
-      "audio": "/public/assets/songs/Virumandi.mp3"
+      "cover": "/assets/album-covers/Virumandi.jpg",
+      "audio": "/assets/songs/Virumandi.mp3"
     },
     {
       "id": 4,
@@ -130,8 +130,8 @@
       "duration": "3:45",
       "album": "Lubber Panthu",
       "artist": "",
-      "cover": "/public/assets/album-covers/aasa_orave.jpg",
-      "audio": "/public/assets/songs/aasa_orave.mp3"
+      "cover": "/assets/album-covers/aasa_orave.jpg",
+      "audio": "/assets/songs/aasa_orave.mp3"
     },
     {
       "id": 5,
@@ -139,8 +139,8 @@
       "duration": "4:08",
       "album": "Mundasupatti",
       "artist": "",
-      "cover": "/public/assets/album-covers/mundasupatti.jpg",
-      "audio": "/public/assets/songs/mundasupatti.mp3"
+      "cover": "/assets/album-covers/mundasupatti.jpg",
+      "audio": "/assets/songs/mundasupatti.mp3"
     }
   ],
   "letter": {
